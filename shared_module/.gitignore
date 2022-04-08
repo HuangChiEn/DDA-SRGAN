@@ -1,0 +1,6 @@
+## Git ignored file -
+__pycache__
+modelManager_.py
+metricEvaluator.py  
+dataManagerTools
+Image_Generator_Using_Center_Score.py
